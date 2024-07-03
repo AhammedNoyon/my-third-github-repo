@@ -1,3 +1,11 @@
 .love{
     background-color: green;
 }
+.care{
+    background-color: purple;
+    font-size: 50px;
+    font-family: fantasy;
+    border: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
